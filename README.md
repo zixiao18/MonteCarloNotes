@@ -1,2 +1,2 @@
-# MonteCarlo_notes
+# MonteCarloNotes
 This repo consists of codes of homework projects.
